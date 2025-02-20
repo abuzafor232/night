@@ -101,3 +101,316 @@ body {
     font-weight: 400;
     margin: 10px 0px;
 }
+
+.section-2{
+padding-top: 40px;
+    background-color: white;
+    text-align: center;
+}
+
+.aboutme{
+
+    color: #0E2431;
+    font-size: 30px;
+    font-weight: 600;
+    position: relative;
+    padding-bottom: 8px;
+    
+}
+
+
+.aboutmecontainer{
+
+    display: flex;
+    justify-content: space-between;
+    
+    width: 80%;
+    margin: 40px  auto 0;
+    text-decoration: none;
+    padding-bottom: 20px;
+
+}
+
+.about{
+    width: 45%;
+}
+
+.aboutimg{
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
+.div-right{
+    width: 55%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+   
+    text-align: justify;
+}
+
+.rightdivhead{
+
+    color: #0E2431;
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    
+    
+}
+
+.lorem{
+    text-align: justify;
+    color: #0E2431;
+    font-size: 20px;
+    line-height: 1.5;
+
+}
+
+.btn2{
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 25px;
+    font-weight: 400;
+    background: #4070f4;
+    color: #fff;
+    border: 2px solid transparent;
+    cursor: pointer;
+}
+
+.myskill-container{
+
+    padding-top: 40px;
+    background-color: #F0F8FF;;
+}
+
+.myscont{
+ width: 80%;
+ margin: 40px  auto 0;
+ padding: 40px 0;
+
+}
+
+.skill-container{
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.left-skill-container{
+
+    width: 50%;
+}
+
+.ldiv1{
+
+    color: #0E2431;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.ldiv2 p{
+    color: #0E2431;
+    text-align: justify;
+    font-size: 1.3em;
+}
+
+.ldiv3{
+    display: flex
+;
+    align-items: center;
+    margin: 0 10px;
+}
+
+.ldiv31{
+    color: #0E2431;
+    font-size: 80px;
+}
+
+.ldiv32{
+    color: #0E2431;
+    
+    font-size: 18px;
+    font-weight: 500;
+    margin: 0 6px;
+}
+
+.right-skill-container {
+
+    width: 45%;
+
+    display: flex;
+    
+    justify-content: space-around;
+    
+
+}
+
+.rrdiv1{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+.rrdiv2{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+
+.skill{
+    font-size: 20px;
+    color: #4070f4;
+    font-weight: 500;
+    margin-bottom: 10px;
+
+}
+
+.skillp{
+
+    font-size: 60px;
+    color: #4070f4;
+}
+
+.mysk{
+    color: #0E2431;
+    font-size: 30px;
+    font-weight: 600;
+    position: relative;
+    padding-bottom: 8px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.section3{
+
+    padding-top: 40px;
+    background-color: white;
+}
+
+.title{
+    color: #0E2431;
+    font-size: 30px;
+    font-weight: 600;
+    position: relative;
+    padding-bottom: 8px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.sec3-container{
+    width: 80%;
+    margin: 40px auto 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.box{
+    margin: 20px 0;
+    width: calc(100% / 3 - 20px);
+    text-align: center;
+    border-radius: 12px;
+    padding: 30px 10px;
+    box-shadow: 0 5px 10px rgba(5, 5, 5, 0.308);
+    cursor: default;
+    
+}
+
+.topic{
+    color: #0E2431;
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+
+.icon i{
+    height: 50px;
+    width: 50px;
+    background: #4070f4;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    font-size: 18px;
+    color: #fff;
+    margin: 0 auto 10px auto;
+    
+}
+
+.Contact{
+    background-color:#F0F8FF ;
+    padding-top: 40px;
+}
+
+.Contactme{
+    color: #0E2431;
+    font-size: 30px;
+    font-weight: 600;
+    position: relative;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.conhead{
+    color: #0E2431;
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.lorem3{
+    text-align: center;
+    font-size: 20px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.btn3{
+
+
+    outline: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 25px;
+    font-weight: 400;
+    background: #4070f4;
+    color: #fff;
+    border: 2px solid transparent;
+    cursor: pointer;
+
+}
+
+.btn-div{
+    margin: 16px 0 0 0 ;
+    text-align: center;
+    padding: 10px;
+}
+
+.copy{
+   background-color: #4070f4;
+   padding: 10px;
+
+   text-align: center;
+   font-size: 20px;
+
+   color: #0E2431;
+}
+
+
+
+
+
+
+
+
